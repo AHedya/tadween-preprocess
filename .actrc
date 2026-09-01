@@ -1,0 +1,2 @@
+--pull=false
+-P ubuntu-latest=catthehacker/ubuntu:act-24.04
